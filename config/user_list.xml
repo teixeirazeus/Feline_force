@@ -1,0 +1,14 @@
+<Users>
+    <User nameLong="Shadow" nameShort="Shadow" callSign="Shadow" portraitTexture="data/textures/gui/customization/portraits/cat1.tga" portraitNameLink="true"/>
+    <User nameLong="Sushi" nameShort="Sushi" callSign="Sushi" portraitTexture="data/textures/gui/customization/portraits/cat11.tga" portraitNameLink="true"/>
+    <User nameLong="Nietzsche" nameShort="Nietzsche" callSign="Nietzsche" portraitTexture="data/textures/gui/customization/portraits/cat12.tga" portraitNameLink="true"/>
+    <User nameLong="Luna" nameShort="Luna" callSign="Luna" portraitTexture="data/textures/gui/customization/portraits/cat2.tga" portraitNameLink="true"/>
+    <User nameLong="Oliver" nameShort="Oliver" callSign="Oliver" portraitTexture="data/textures/gui/customization/portraits/cat3.tga" portraitNameLink="true"/>
+    <User nameLong="Charlie" nameShort="Charlie" callSign="Charlie" portraitTexture="data/textures/gui/customization/portraits/cat4.tga" portraitNameLink="true"/>
+    <User nameLong="Lucy" nameShort="Lucy" callSign="Lucy" portraitTexture="data/textures/gui/customization/portraits/cat5.tga" portraitNameLink="true"/>
+    <User nameLong="Leo" nameShort="Leo" callSign="Leo" portraitTexture="data/textures/gui/customization/portraits/cat6.tga" portraitNameLink="true"/>
+    <User nameLong="Max" nameShort="Max" callSign="Max" portraitTexture="data/textures/gui/customization/portraits/cat7.tga" portraitNameLink="true"/>
+    <User nameLong="Bella" nameShort="Bella" callSign="Bella" portraitTexture="data/textures/gui/customization/portraits/cat8.tga" portraitNameLink="true"/>
+     <User nameLong="Milo" nameShort="Milo" callSign="Milo" portraitTexture="data/textures/gui/customization/portraits/cat9.tga" portraitNameLink="true"/>
+    <User nameLong="Simba" nameShort="Simba" callSign="Simba" portraitTexture="data/textures/gui/customization/portraits/cat10.tga" portraitNameLink="true"/>
+</Users>

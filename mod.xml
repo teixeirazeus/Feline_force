@@ -1,0 +1,9 @@
+<Mod
+	name="Feline Force"
+	description="Command a squad of specially trained cats."
+	image="textures/gui/mods/modimage_modtemplate.png"
+	author="Thiago da Silva Teixeira"
+	gameVersion="1.0.9"
+	tags="Interface,Other"
+	changeNotes="Remove sound"
+/>
